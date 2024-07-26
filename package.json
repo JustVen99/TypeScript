@@ -1,0 +1,32 @@
+{
+  "name": "asmfn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:db": "json-server -w db.json",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"lite-server\" \"webpack --watch\" \"json-server --watch data/db.json\"",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "lite-server": "2.3",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "concurrently": "^8.2.2",
+    "currently": "^0.0.8",
+    "json": "^11.0.0",
+    "lite": "^4.0.5",
+    "nodemon": "^3.0.2",
+    "server": "^1.0.38"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "name": "Nguyễn Văn Tài",
+      "specialized": "Front End Developer",
+      "avt": "vtai.jpg",
+      "phone": "0764532489",
+      "email": "Tainvps26299@fpt.edu.vn",
+      "birthday": "1999",
+      "address": "Quận 12, HCM , VietNam",
+      "education": "Tốt nghiệp chuyên nghành Front End Developer tại FPT PolyTechnic",
+      "id": 1,
+      "project": "Website quản lý CV",
+      "desProject": "Demo Website quản lý CV thực hiện khi còn là sinh viên ở Fpoly. Website được xây dựng bằng HTML, CSS và TypeScript",
+      "intro": "Thích làm việc trong môi trường yên tĩnh , thích nghe nhạc , chơi game , yêu động vật , ngại giao tiếp với người lạ"
+    },
+    {
+      "name": "Lê Trung Tín",
+      "specialized": "Front End Developer",
+      "avt": "tin.jpg",
+      "phone": "0764123456",
+      "email": "Tinlt27300@fpt.edu.vn",
+      "birthday": "2003",
+      "address": "Quận Gò Vấp, HCM , VietNam",
+      "education": "Tốt nghiệp chuyên nghành Front End Developer tại FPT PolyTechnic",
+      "id": 2,
+      "project": "Website bán balo cặp sách",
+      "desProject": "Demo Website bán mặt hàng balo và cặp sách khi còn là sinh viên ở Fpoly được viết bằng HTML, CSS , Bootstrap, PHP",
+      "intro": "Thích nghe nhạc , chơi thể thao , chơi game , thích cái đẹp"
+    },
+    {
+      "name": "Tường Thế Duy",
+      "specialized": "Front End Developer",
+      "avt": "duy.jpg",
+      "phone": "0764987654",
+      "email": "Duytt27200@fpt.edu.vn",
+      "birthday": "1997",
+      "address": "Quận 10, HCM , VietNam",
+      "education": "Tốt nghiệp chuyên nghành Front End Developer tại FPT PolyTechnic",
+      "id": 3,
+      "project": "Website chuyên về thú cưng",
+      "desProject": "Demo Website bán thú cưng, các mặt hàng về thú cưng và chăm sóc thú cưng khi còn là sinh viên ở Fpoly. Website được viết bằng HTML , CSS , Tailwin , Reactjs",
+      "intro": "Yêu động vật, thích kinh doanh, đọc sách"
+    },
+    {
+      "name": "Hà Trung Hiếu",
+      "specialized": "Workpress Developer",
+      "phone": "0123456789",
+      "email": {},
+      "birthday": "2001",
+      "address": "Quận 5, HCM , VietNam",
+      "education": "Tốt nghiệp chuyên nghành Front End Developer tại FPT PolyTechnic",
+      "project": "Website bán sách và quản lý sách",
+      "desProject": "Demo Website bán sách và quản lý sách khi còn là sinh viên Fpoly. Website được thực hiện bằng Workpress và các plugin",
+      "intro": "Thích chơi thể thao, gặp gỡ bạn bè , chơi game",
+      "avt": "",
+      "id": 4
+    },
+    {
+      "name": "mã tuấn phong",
+      "avt": "duy.jpg",
+      "specialized": "marketing",
+      "phone": "0846325895",
+      "email": "phongtm15556@fpt.edu.vn",
+      "birthday": "2000",
+      "address": "tốt nghiệp fpt chuyên nghành marketing",
+      "education": "quận 1 , tp.hcm",
+      "project": "chụp hình dep",
+      "desProject": "chụp các bức hình đẹp",
+      "intro": "lãng tử",
+      "id": 6
+    }
+  ]
+}
